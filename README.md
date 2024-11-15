@@ -83,6 +83,8 @@ This repository contains a list of articles that are related to Large Language M
 
 - [Improving Information Retrieval and RAG with Hypothetical Document Embeddings (HyDE)](https://zilliz.com/learn/improve-rag-and-information-retrieval-with-hyde-hypothetical-document-embeddings)
 - [Hypothetical Document Embedding (HyDE)](https://medium.com/papers-i-found/e11-hypothetical-document-embedding-hyde-acee7e56bd08)
+- [InstructLab](https://research.ibm.com/blog/instruct-lab)
 
 ## Models
 - [CodeQwen](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct)
+
