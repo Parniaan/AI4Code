@@ -12,8 +12,10 @@ This repository contains a list of articles that are related to Large Language M
 8. [Code repair](#Code-repair)
 9. [Code security](#Code-security)
 10. [LLMs for proofs](#LLMs-for-proofs)
-11. [Benchmark](#Benchmark)
-12. [Miscellaneous](#Miscellaneous)
+11. [Matchematical reasoning](#Matchematical-reasoning)
+12. [Benchmark and Testing](#Benchmark-and-Testing)
+13. [Miscellaneous](#Miscellaneous)
+14. [Models](#Models)
 
 
 ## Code completion
@@ -66,6 +68,9 @@ This repository contains a list of articles that are related to Large Language M
 
 
 - [Selene: Pioneering Automated Proof in Software Verification](https://arxiv.org/abs/2401.07663)
+
+## Matchematical reasoning
+- [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/pdf/2410.05229)
 
 ## Benchmark and Testing
 - [Code Agents are State of the Art Software Testers](https://arxiv.org/pdf/2406.12952)
