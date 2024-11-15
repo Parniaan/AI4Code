@@ -19,62 +19,64 @@ This repository contains a list of articles that are related to Large Language M
 ## Code completion
 
 ## Embedding
-Unsupervised Dense Information Retrieval with Contrastive Learning[https://arxiv.org/abs/2112.09118]
-GitHub Repo[https://github.com/Parniaan/contriever?tab=readme-ov-file]
+- [Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118)
+    - [GitHub Repo](https://github.com/Parniaan/contriever?tab=readme-ov-file)
 
-Precise Zero-Shot Dense Retrieval without Relevance Labels[https://arxiv.org/abs/2212.10496]
+- [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/abs/2212.10496)
 ## Reasoning
-SEMCODER: Training Code Language Models with
-Comprehensive Semantics Reasoning [https://openreview.net/pdf?id=PnlCHQrM69]
+- [SEMCODER: Training Code Language Models with](https://openreview.net/pdf?id=PnlCHQrM69)
+- [Comprehensive Semantics Reasoning](https://openreview.net/pdf?id=PnlCHQrM69)
 ## Code generation
-Magicoder: Empowering Code Generation with OSS-INSTRUCT [https://export.arxiv.org/pdf/2312.02120]
-StarCoder: may the source be with you! [https://arxiv.org/abs/2305.06161]
+- [Magicoder: Empowering Code Generation with OSS-INSTRUCT](https://export.arxiv.org/pdf/2312.02120)
+- [StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)
 ## Code summarization
 
 ## Code translation
 
 ## Automated program repair
-RepairAgent: An Autonomous, LLM-Based Agent for Program Repair [https://arxiv.org/abs/2403.17134]
-Aligning the Objective of LLM-based Program
-Repair [https://arxiv.org/pdf/2404.08877]
+- [RepairAgent: An Autonomous, LLM-Based Agent for Program Repair](https://arxiv.org/abs/2403.17134)
+- [Aligning the Objective of LLM-based Program Repair](https://arxiv.org/pdf/2404.08877)
 
 ## RAG
 
 ## Code security
-- Is GitHub’s Copilot as Bad as Humans at
-Introducing Vulnerabilities in Code?[https://arxiv.org/abs/2204.04741]
+- [Is GitHub’s Copilot as Bad as Humans at Introducing Vulnerabilities in Code?](https://arxiv.org/abs/2204.04741)
 
 ## LLMs for proofs
 
-- Clover: Closed-Loop Verifiable Code Generation [https://arxiv.org/pdf/2310.17807]
+- [Clover: Closed-Loop Verifiable Code Generation](https://arxiv.org/pdf/2310.17807)
 
-- Laurel: Generating Dafny Assertions Using Large Language Models [https://arxiv.org/pdf/2405.16792]
+- [Laurel: Generating Dafny Assertions Using Large Language Models](https://arxiv.org/pdf/2405.16792)
 
-- Virtual Machinations: Using Large Language Models as Neural Computers [https://dl.acm.org/doi/10.1145/3676287]
+- [Virtual Machinations: Using Large Language Models as Neural Computers](https://dl.acm.org/doi/10.1145/3676287)
 
-- Towards Neural Synthesis for SMT-Assisted Proof-Oriented Programming [https://arxiv.org/abs/2405.01787]
+- [Towards Neural Synthesis for SMT-Assisted Proof-Oriented Programming](https://arxiv.org/abs/2405.01787)
     - Dataset (V1): https://lnkd.in/gUppqTcf 
     - Dataset (V2): https://lnkd.in/gRtqfc9V 
 
-- LeanDojo: Theorem Proving with Retrieval-Augmented Language Models [https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html]
+- [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models] (https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
 
-- Towards Large Language Models as Copilots for Theorem Proving in {Lean} [https://arxiv.org/abs/2404.12534]
+- [Towards Large Language Models as Copilots for Theorem Proving in {Lean}](https://arxiv.org/abs/2404.12534)
 
-- Lemur: Integrating Large Language Models in Automated Program Verification [https://arxiv.org/pdf/2310.04870]
+- [Lemur: Integrating Large Language Models in Automated Program Verification](https://arxiv.org/pdf/2310.04870)
 
-- AutoVerus: Automated Proof Generation for Rust Code [https://arxiv.org/pdf/2409.13082]
+- [AutoVerus: Automated Proof Generation for Rust Code](https://arxiv.org/pdf/2409.13082)
 
-- AUTOMATED PROOF GENERATION FOR RUST CODE
-VIA SELF-EVOLUTION [https://arxiv.org/pdf/2410.15756]
+- [AUTOMATED PROOF GENERATION FOR RUST CODE VIA SELF-EVOLUTION](https://arxiv.org/pdf/2410.15756)
 
-- Selene: Pioneering Automated Proof in Software Verification [https://arxiv.org/abs/2401.07663]
+
+- [Selene: Pioneering Automated Proof in Software Verification](https://arxiv.org/abs/2401.07663)
+
 ## Benchmark and Testing
-Code Agents are State of the Art Software Testers [https://arxiv.org/pdf/2406.12952]
+- [Code Agents are State of the Art Software Testers](https://arxiv.org/pdf/2406.12952)
 
-LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code [https://arxiv.org/abs/2403.07974]
+- [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974)
 
-SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [https://arxiv.org/abs/2310.06770]
+- [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)
 
 ## Miscellaneous
 
-Improving Information Retrieval and RAG with Hypothetical Document Embeddings (HyDE) [https://zilliz.com/learn/improve-rag-and-information-retrieval-with-hyde-hypothetical-document-embeddings]
+- [Improving Information Retrieval and RAG with Hypothetical Document Embeddings (HyDE)](https://zilliz.com/learn/improve-rag-and-information-retrieval-with-hyde-hypothetical-document-embeddings)
+
+## Models
+- [CodeQwen](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct)
