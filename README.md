@@ -27,7 +27,7 @@ This repository contains a list of articles that are related to Large Language M
 - [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/abs/2212.10496)
 ## Reasoning
 - [SEMCODER: Training Code Language Models with](https://openreview.net/pdf?id=PnlCHQrM69)
-- [Comprehensive Semantics Reasoning](https://openreview.net/pdf?id=PnlCHQrM69)
+
 ## Code generation
 - [Magicoder: Empowering Code Generation with OSS-INSTRUCT](https://export.arxiv.org/pdf/2312.02120)
 - [StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)
