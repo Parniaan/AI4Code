@@ -20,6 +20,8 @@ This repository contains a list of articles that are related to Large Language M
 
 ## Code completion
 
+- [Attribution-guided Adversarial Code Prompt Generation for Code Completion Models](https://dl.acm.org/doi/abs/10.1145/3691620.3695517)
+
 ## Embedding
 - [Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118)
     - [GitHub Repo](https://github.com/Parniaan/contriever?tab=readme-ov-file)
