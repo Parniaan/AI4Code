@@ -1,5 +1,5 @@
 # CodeLLMs
-This repository contains a list of articles that are related to Large Language Models and their specifications in code-related tasks.
+This repository contains a list of articles that are related to Large Language Models and their specifications, basic concepts of LLMs and their applications in code-related tasks.
 
 # Table of Contents
 1. [Code completion](#Code-completion)
