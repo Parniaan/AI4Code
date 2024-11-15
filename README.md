@@ -72,6 +72,10 @@ This repository contains a list of articles that are related to Large Language M
 ## Matchematical reasoning
 - [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/pdf/2410.05229)
 
+## Fault localization
+- [Fault Localization in Deep Learning-based Software: A
+System-level Approach](https://arxiv.org/pdf/2411.08172)
+
 ## Benchmark and Testing
 - [Code Agents are State of the Art Software Testers](https://arxiv.org/pdf/2406.12952)
 
