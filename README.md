@@ -53,6 +53,8 @@ Introducing Vulnerabilities in Code?[https://arxiv.org/abs/2204.04741]
 - Virtual Machinations: Using Large Language Models as Neural Computers [https://dl.acm.org/doi/10.1145/3676287]
 
 - Towards Neural Synthesis for SMT-Assisted Proof-Oriented Programming [https://arxiv.org/abs/2405.01787]
+    - Dataset (V1): https://lnkd.in/gUppqTcf 
+    - Dataset (V2): https://lnkd.in/gRtqfc9V 
 
 - LeanDojo: Theorem Proving with Retrieval-Augmented Language Models [https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html]
 
@@ -70,6 +72,8 @@ VIA SELF-EVOLUTION [https://arxiv.org/pdf/2410.15756]
 Code Agents are State of the Art Software Testers [https://arxiv.org/pdf/2406.12952]
 
 LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code [https://arxiv.org/abs/2403.07974]
+
+SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [https://arxiv.org/abs/2310.06770]
 
 ## Miscellaneous
 
