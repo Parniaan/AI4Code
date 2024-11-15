@@ -13,9 +13,10 @@ This repository contains a list of articles that are related to Large Language M
 9. [Code security](#Code-security)
 10. [LLMs for proofs](#LLMs-for-proofs)
 11. [Matchematical reasoning](#Matchematical-reasoning)
-12. [Benchmark and Testing](#Benchmark-and-Testing)
-13. [Miscellaneous](#Miscellaneous)
-14. [Models](#Models)
+12. [Fault localization](#Fault-localization)
+13. [Benchmark and Testing](#Benchmark-and-Testing)
+14. [Miscellaneous](#Miscellaneous)
+15. [Models](#Models)
 
 
 ## Code completion
