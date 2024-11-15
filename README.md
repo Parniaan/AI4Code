@@ -56,7 +56,7 @@ This repository contains a list of articles that are related to Large Language M
     - Dataset (V1): https://lnkd.in/gUppqTcf 
     - Dataset (V2): https://lnkd.in/gRtqfc9V 
 
-- [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models] (https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
+- [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
 
 - [Towards Large Language Models as Copilots for Theorem Proving in {Lean}](https://arxiv.org/abs/2404.12534)
 
