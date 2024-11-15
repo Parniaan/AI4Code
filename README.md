@@ -12,11 +12,10 @@ This repository contains a list of articles that are related to Large Language M
 8. [Code repair](#Code-repair)
 9. [Code security](#Code-security)
 10. [LLMs for proofs](#LLMs-for-proofs)
-11. [Matchematical reasoning](#Matchematical-reasoning)
-12. [Fault localization](#Fault-localization)
-13. [Benchmark and Testing](#Benchmark-and-Testing)
-14. [Miscellaneous](#Miscellaneous)
-15. [Models](#Models)
+11. [Fault localization](#Fault-localization)
+12. [Benchmark and Testing](#Benchmark-and-Testing)
+13. [Miscellaneous](#Miscellaneous)
+14. [Models](#Models)
 
 
 ## Code completion
@@ -27,7 +26,14 @@ This repository contains a list of articles that are related to Large Language M
 
 - [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/abs/2212.10496)
 ## Reasoning
+### Semantic reasoning 
 - [SEMCODER: Training Code Language Models with](https://openreview.net/pdf?id=PnlCHQrM69)
+
+### Matchematical reasoning
+- [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/pdf/2410.05229)
+
+### Vlunerability reasoning
+- [LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs’ Vulnerability Reasoning](https://arxiv.org/pdf/2401.16185)
 
 ## Code generation
 - [Magicoder: Empowering Code Generation with OSS-INSTRUCT](https://export.arxiv.org/pdf/2312.02120)
@@ -69,9 +75,6 @@ This repository contains a list of articles that are related to Large Language M
 
 
 - [Selene: Pioneering Automated Proof in Software Verification](https://arxiv.org/abs/2401.07663)
-
-## Matchematical reasoning
-- [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/pdf/2410.05229)
 
 ## Fault localization
 - [Fault Localization in Deep Learning-based Software: A
