@@ -100,6 +100,7 @@ System-level Approach](https://arxiv.org/pdf/2411.08172)
 
 ## Models
 - [CodeQwen](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct)
+- [CODEFUSION: A Pre-trained Diffusion Model for Code Generation](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/CodeFusion-Revised-CameraReady.pdf)
 
 ## Agents
 - [LARGE LANGUAGE MODELS AS ANALOGICAL REASONERS](https://arxiv.org/pdf/2310.01714)
