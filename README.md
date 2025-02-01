@@ -17,7 +17,7 @@ This repository contains a list of articles that are related to Large Language M
 13. [Miscellaneous](#Miscellaneous)
 14. [Models](#Models)
 15. [Agents](#Agents)
-16. [Trustworthy & verifiable AI](#)
+
 
 
 ## Code completion
@@ -109,3 +109,5 @@ System-level Approach](https://arxiv.org/pdf/2411.08172)
 - [SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/pdf/2402.03620)
 - [COMPOSITIONAL SEMANTIC PARSING WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2209.15003)
 - [SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS](https://arxiv.org/pdf/2203.11171)
+
+##
