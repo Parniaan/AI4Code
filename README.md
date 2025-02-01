@@ -1,5 +1,5 @@
 # AI4Code
-This repository contains a list of articles that are related to Large Language Models and their specifications, basic concepts of LLMs and their applications in code-related tasks.
+This repository contains a list of articles that are related to Large Language Models and their specifications, basic concepts of LLMs and their applications in programming-related tasks.
 
 # Table of Contents
 1. [Code completion](#Code-completion)
@@ -16,6 +16,8 @@ This repository contains a list of articles that are related to Large Language M
 12. [Benchmark and Testing](#Benchmark-and-Testing)
 13. [Miscellaneous](#Miscellaneous)
 14. [Models](#Models)
+15. [Agents](#Agents)
+16. [Trustworthy & verifiable AI](#)
 
 
 ## Code completion
@@ -52,6 +54,7 @@ This repository contains a list of articles that are related to Large Language M
 
 ## Code security
 - [Is GitHub’s Copilot as Bad as Humans at Introducing Vulnerabilities in Code?](https://arxiv.org/abs/2204.04741)
+- [Prompting Techniques for Secure Code Generation: A Systematic Investigation](https://arxiv.org/pdf/2407.07064)
 
 ## LLMs for proofs
 
@@ -98,3 +101,11 @@ System-level Approach](https://arxiv.org/pdf/2411.08172)
 ## Models
 - [CodeQwen](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct)
 
+## Agents
+- [LARGE LANGUAGE MODELS AS ANALOGICAL REASONERS](https://arxiv.org/pdf/2310.01714)
+- [LARGE LANGUAGE MODELS AS OPTIMIZERS](https://arxiv.org/pdf/2309.03409)
+- [LARGE LANGUAGE MODELS ARE HUMAN-LEVEL PROMPT ENGINEERS](https://arxiv.org/pdf/2211.01910)
+- [LEAST-TO-MOST PROMPTING ENABLES COMPLEX REASONING IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2205.10625)
+- [SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/pdf/2402.03620)
+- [COMPOSITIONAL SEMANTIC PARSING WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2209.15003)
+- [SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS](https://arxiv.org/pdf/2203.11171)
