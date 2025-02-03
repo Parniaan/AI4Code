@@ -42,6 +42,8 @@ This repository contains a list of articles that are related to Large Language M
 ## Code generation
 - [Magicoder: Empowering Code Generation with OSS-INSTRUCT](https://export.arxiv.org/pdf/2312.02120)
 - [StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)
+- [IS SELF-REPAIR A SILVER BULLET FOR CODE GENERATION?](https://arxiv.org/pdf/2306.09896)
+  
 ## Code summarization
 
 ## Code translation
@@ -111,4 +113,5 @@ System-level Approach](https://arxiv.org/pdf/2411.08172)
 - [COMPOSITIONAL SEMANTIC PARSING WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2209.15003)
 - [SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS](https://arxiv.org/pdf/2203.11171)
 
-##
+
+
