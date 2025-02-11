@@ -112,6 +112,7 @@ System-level Approach](https://arxiv.org/pdf/2411.08172)
 - [SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/pdf/2402.03620)
 - [COMPOSITIONAL SEMANTIC PARSING WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2209.15003)
 - [SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS](https://arxiv.org/pdf/2203.11171)
+- [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585)
 
 
 
